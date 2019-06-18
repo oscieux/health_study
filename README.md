@@ -4,4 +4,4 @@ Grâce à la base de données développée par la Food and Agriculture Organizat
 
 Le problème de la faim est complexe et peut avoir de multiples causes, différentes selon les pays.
 
-L’étape préliminaire de cette étude sera donc d’établir un “état de l’art” des recherches déjà publiées, mais également de mener une étude statistique destinée à orienter les recherches vers des pays particuliers, de mettre en lumière différentes causes de la faim et mettre en place une base de données (en SQL).
+L’étape préliminaire de cette étude sera donc d’établir un “état de l’art” des recherches déjà publiées, mais également de mener une étude statistique destinée à orienter les recherches vers des pays particuliers, de mettre en lumière différentes causes de la faim et de mettre en place une base de données (en SQL).
